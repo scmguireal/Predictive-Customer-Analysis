@@ -47,7 +47,6 @@ Which brand they buy:
 ![](./images/brand_choice_seg.png)
 
 #### The majority of this store's customers come from the Fewer-Opportunities segment which makes a purchase 20% of the time they are in the store and almost exclusively buy Brand 2.
-* Hypothesis: Lowering price on Brand 2 or providing promotions will increase sales and purchase frequency for this segment.
 
 # B) Calculating Probabilities
 
@@ -95,6 +94,8 @@ The point at which customer segments will be affected by price change:
 #### Figure 2: Own Brand and Cross Brand Elasticities
 
 ![](./images/brand2_cross_segs_b1.png)
+
+**Interpretation:**
 * The intersection of the chart and the horizontal purple line denotes the point at which each chart becomes elastic.
 * The vertical dotted lines show the boundaries of the observed prices for Brand 2 (left charts) and Brand 1 (right charts) respectively.
 * We can see that Well-off and Career-Focused are not the target market.

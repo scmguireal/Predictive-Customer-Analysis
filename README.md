@@ -1,6 +1,6 @@
 # Problem Statement:
 * The information contained comes from the purchasing behavior of 2000 individuals when entering a physical FMC store, all data has been collected through the loyalty cards they use at checkout. We have pre-processed the data, encoded all variables numerically and dealt with missing values. In addition, we have restricted the volume of the data set and protected the privacy of the customers.
-* The purchase data was recorded at each time of purchase and does not contain all days for the past two years. It does include multiple entries for customers. The goal of the positioning portion is to use the segmentation information to accurately predict purchase probability, brand choice probability, and purchase quantities.
+* The purchase data was recorded at each time of purchase and does not contain all days for the past two years. It does include multiple entries for customers. The goal of the positioning portion is to use the segmentation information to accurately predict purchase probability and brand choice probability.
 
 # 1. Customer Segmentation
 ### Methods Used:
